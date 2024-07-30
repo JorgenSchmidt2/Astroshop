@@ -1,0 +1,188 @@
+.exitAccountButton {
+    display: inline-block;
+
+    margin: 1%;
+    margin-top: 3%;
+    padding-top: 1.5%;
+    padding-bottom: 1.9%;
+    padding-left: 1.7%;
+    padding-right: 1.7%;
+
+    color: #eee;
+    background-color: #111;
+    border: 2px solid #fc0;
+    border-radius: 12px;
+
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor:pointer;
+}
+
+.exitAccountButton:hover {
+    display: inline-block;
+
+    color: #111;
+    background-color: #ddd;
+    border: 2px solid #fb0;
+    border-radius: 12px;
+
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor:pointer;
+}
+
+.rulebutton {
+    display: inline-block;
+
+    margin: 1%;
+    margin-top: 3%;
+    padding-top: 0.7%;
+    padding-bottom: 0.7%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 12px;
+
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor:pointer;
+}
+
+.rulebutton:hover {
+    display: inline-block;
+
+    margin: 1%;
+    margin-top: 3%;
+    padding-top: 0.7%;
+    padding-bottom: 0.7%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+
+    color: black;
+    background-color: #f8f8f8;
+    border: 2px solid black;
+    border-radius: 12px;
+
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor:pointer;
+}
+
+.hrefbutton {
+    margin: 3%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    border-radius: 9px;
+    width: 22%;
+
+    background-color: #111;
+    color: white;
+    float: left;
+}
+
+.hrefbutton:hover {
+    margin: 3%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    border-radius: 9px;
+    width: 22%;
+
+    background-color: #222;
+    color: white;
+    float: left;
+}
+
+.header-main-button {
+    display: inline-block;
+    border-radius: 10px;
+    border: 0.15vw solid #fff;
+
+    margin-left: 0.3%;
+    margin-right: 0.3%;
+    padding: 0.4%;
+    padding-bottom: 0.5%;
+    text-align: center;
+    background-color: #fff;
+    color: #222;
+
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor:pointer;
+}
+
+.header-main-button:hover {
+    display: inline-block;
+    border-radius: 10px;
+    border: 0.15vw solid #fff;
+    
+    margin-left: 0.3%;
+    margin-right: 0.3%;
+    padding: 0.4%;
+    padding-bottom: 0.5%;
+    text-align: center;
+    background-color: #222;
+    color: #fff;
+
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor:pointer;
+}
+
+.header-menu-button {
+    display: inline-block;
+    border-radius: 10px;
+    border: 0.15vw solid #e8e8e8;
+    
+    margin-left: 0.4%;
+    margin-right: 0.4%;
+    padding: 0.4%;
+    padding-bottom: 0.5%;
+    text-align: center;
+    background-color: #e8e8e8;
+    color: #222;
+
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor:pointer;
+}
+
+.header-menu-button:hover {
+    display: inline-block;
+    border-radius: 10px;
+    border: 0.15vw solid #fff;
+    
+    margin-left: 0.4%;
+    margin-right: 0.4%;
+    padding: 0.4%;
+    padding-bottom: 0.5%;
+    text-align: center;
+    background-color: #222;
+    color: #fff;
+
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor:pointer;
+}

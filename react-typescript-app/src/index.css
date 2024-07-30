@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a.active {  
+  color: black;
+  text-decoration: none;
+}
+
+.block-canActive {
+  margin: 0px;
+  transform: scale(0);
+}
+.block-canActive.active {
+  margin: 0px;
+  transform: scale(1);
+}
+
+.font-nomargin {
+  margin: 0px;
+}
+
+.font-smallmargin {
+  margin: 1%;
+}
+
+.font-smalllargemargin {
+  margin: 2%;
+}
+
+.font-topsmallmarin {
+  margin-top: 10%;
+}
+
+.font-white {
+  color: white;
+}
+
+.font-red {
+  color: red;
+}
+
+.font-center {
+  text-align: center;
+}
+
+.font-justify {
+  text-align: justify;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.font-smallbold {
+  font-weight: 500;
+}
+
+.font-large {
+  font-size: 4vw;
+}
+
+.font-largesmall {
+  font-size: 3.6vw;
+}
+
+.font-mediumlarge {
+  font-size: 3.5vw;
+}
+
+.font-medium {
+  font-size: 3.3vw;
+}
+
+.font-mediumsmall {
+  font-size: 3.1vw;
+}
+
+.font-smallmedium {
+  font-size: 2.9vw;
+}
+
+.font-small {
+  font-size: 2.6vw;
+}
+
+.font-verysmall {
+  font-size: 2vw;
+}
+
+@media screen and (min-width: 725px) {
+  .font-large {
+    font-size: 2.7vw;
+  }
+
+  .font-largesmall {
+    font-size: 2.4vw;
+  }
+
+  .font-mediumlarge {
+    font-size: 2.1vw;
+  }
+  
+  .font-medium {
+    font-size: 1.8vw;
+  }
+  
+  .font-mediumsmall {
+    font-size: 1.4vw;
+  }
+
+  .font-smallmedium {
+    font-size: 1.2vw;
+  }
+
+  .font-small {
+    font-size: 1.07vw;
+  }
+
+  .font-verysmall {
+    font-size: 0.9vw
+  }
+
+}
+
+.font-tograyhover:hover {
+  color: gray;
+  cursor: pointer;
+}

@@ -1,0 +1,12 @@
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\Service\bin\Debug\net7.0\Service.deps.json
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\Service\bin\Debug\net7.0\Service.dll
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\Service\bin\Debug\net7.0\Service.pdb
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\Service\obj\Debug\net7.0\Service.dll
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\Service\obj\Debug\net7.0\refint\Service.dll
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\Service\obj\Debug\net7.0\Service.pdb
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\Service\obj\Debug\net7.0\ref\Service.dll

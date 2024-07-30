@@ -1,0 +1,17 @@
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\bin\Debug\net7.0\DAL.MySQL.deps.json
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\bin\Debug\net7.0\DAL.MySQL.runtimeconfig.json
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\bin\Debug\net7.0\DAL.MySQL.dll
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\bin\Debug\net7.0\DAL.MySQL.pdb
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\bin\Debug\net7.0\Core.dll
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\bin\Debug\net7.0\Core.pdb
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\obj\Debug\net7.0\DAL.MySQL.csproj.AssemblyReference.cache
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\obj\Debug\net7.0\DAL.MySQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\obj\Debug\net7.0\DAL.MySQL.AssemblyInfoInputs.cache
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\obj\Debug\net7.0\DAL.MySQL.AssemblyInfo.cs
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\obj\Debug\net7.0\DAL.MySQL.csproj.CoreCompileInputs.cache
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\obj\Debug\net7.0\DAL.MySQL.csproj.CopyComplete
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\obj\Debug\net7.0\DAL.MySQL.dll
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\obj\Debug\net7.0\refint\DAL.MySQL.dll
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\obj\Debug\net7.0\DAL.MySQL.pdb
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\obj\Debug\net7.0\DAL.MySQL.genruntimeconfig.cache
+D:\ProgramData\Projects\Astroshop\Astroshop.Backend.NET.7\DAL.MySQL\obj\Debug\net7.0\ref\DAL.MySQL.dll
